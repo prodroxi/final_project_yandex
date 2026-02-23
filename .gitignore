@@ -3,5 +3,6 @@ venv/
 .idea/
 .pytest_cache/
 __pycache__/
+*.pyc
 file_name.txt
 *.doc
